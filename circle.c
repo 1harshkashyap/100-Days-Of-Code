@@ -5,7 +5,7 @@ int main(){
     printf ("ENTER RADIUS:");
     scanf("%f",&radius);
     printf("THE AREA OF CIRCLE IS: %f \n",pi*radius*radius);
-    printf("THE PERIMETER OF CIRCLE IS: %f",(2*(pi*radius)));
+    printf("THE CIRCUMFERENCE OF CIRCLE IS: %f",(2*(pi*radius)));
 
     return 0;
 }
