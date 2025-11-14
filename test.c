@@ -6,3 +6,4 @@ int main(){
     printf("%d", b); // print value of b
     return 0;
 }
+//this code for testing git
